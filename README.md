@@ -343,7 +343,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 248 | [When does a Sprint conclude?](#when-does-a-sprint-conclude) |
 | 249 | [A Scrum Team is experiencing a growing list of impediments. Which techniques would be most helpfull in this situation?](#a-scrum-team-is-experiencing-a-growing-list-of-impediments-which-techniques-would-be-most-helpfull-in-this-situation) |
 | 250 | [Which of the following are topics for the Developers to discuss at the Daily Scrum as they inspect their progress toward the Sprint Goal?](#which-of-the-following-are-topics-for-the-developers-to-discuss-at-the-daily-scrum-as-they-inspect-their-progress-toward-the-sprint-goal) |
-
+| 251 | [Which three behaviors demonstrate that a team is self-organizing?](#which-three-behaviors-demonstrate-that-a-team-is-self-organizing) |
 
 ### You have just been hired by a company new to Scrum. Your management has assigned you to be the Scrum Master of six new Scrum Teams. These teams will build one product. Select two conditions you should strive for in this scenario. (choose two)
 
@@ -2594,6 +2594,18 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
+### Which three behaviors demonstrate that a team is self-organizing? 
+(Choose three)
+- [x] Stakeholders walking in at the Daily Scrum to check progress and work with the Scrum Master to optimize the functional scope for the Sprint.
+- [x] The Development Team members are working within the boundaries of their functional description and nicely handing off work from analyst to developer to tester to integration.
+- [ ] The Product Owner doesn't need to be at Sprint Retrospectives.
+- [ ] The Development Team creating their own sprint backlog, reflecting all work that is part of the definition of "Done".
+- [ ] The Development Team has all the skills needed to create a releasable Increment.
+- [ ] Development Team members collaboratively selecting their own work during the Sprint.
+- [x] The Development Team inviting external people to the Sprint Planning to ask them how to turn a Product Backlong item into an Increment via a complete and detailed Sprint Backlog.
+- [ ] The Scrum Master is no longer needed.
+
+**[⬆ Back to Top](#table-of-contents)**
 #### Legal Information and Disclaimer
 
 *Scrum.org • Professional Scrum • Applying Professional Scrum • Professional Scrum Foundations • Professional Scrum Master • Professional Scrum Product Owner • Professional Scrum Developer • Scaled Professional Scrum • Professional Agile Leadership • Professional Agile Leadership - Essentials • Professional Scrum with Kanban • Professional Scrum with User Experience • Professional Scrum Facilitation Skills • Professional Scrum Product Backlog Management Skills • Professional Scrum Trainer • Professional Training Network • Evidence Based Management • Guided Learning Platform • Professional Scrum Guide • Scrum Pulse • ScrumPulse • Scrum Tapas • PSF • APS • PSM • PSPO • PSD • SPS • PAL-E • PSK • PSU • PSF Skills • PSPBM Skills • PST • PSG • GLP • PTN • EBM • EBMngt along with respective Design Marks, are protected brands of Scrum.org. This course is neither endorsed nor affiliated with Scrum.org.*
