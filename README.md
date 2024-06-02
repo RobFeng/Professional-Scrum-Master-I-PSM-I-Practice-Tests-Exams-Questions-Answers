@@ -341,6 +341,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 246 | [The CEO asks the Developers to add a "very important" item to a Sprint that is in progress. What should the Developers do?](#the-ceo-asks-the-developers-to-add-a-very-important-item-to-a-sprint-that-is-in-progress-what-should-the-developers-do) |
 | 247 | [The Scrum Team must choose at least one high priority process improvement item, identified during the Sprint Retrospective, and place it in the Sprint Backlog.](#the-scrum-team-must-choose-at-least-one-high-priority-process-improvement-item-identified-during-the-sprint-retrospective-and-place-it-in-the-sprint-backlog) |
 | 248 | [When does a Sprint conclude?](#when-does-a-sprint-conclude) |
+| 249 | [A Scrum Team is experiencing a growing list of impediments. Which techniques would be most helpfull in this situation?](#a-scrum-team-is-experiencing-a-growing-list-of-impediments-which-techniques-would-be-most-helpfull-in-this-situation) |
 
 
 ### You have just been hired by a company new to Scrum. Your management has assigned you to be the Scrum Master of six new Scrum Teams. These teams will build one product. Select two conditions you should strive for in this scenario. (choose two)
@@ -2568,6 +2569,15 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] When the Sprint Retrospective is complete.
 - [ ] When all the tasks are completed by the Developers.
 - [ ] When all Product Backlog items meet their Definition of Done.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### A Scrum Team is experiencing a growing list of impediments. Which techniques would be most helpfull in this situation?
+
+- [x] As a Scrum Team, prioritize the list and work on the in order.
+- [x] The Scrum Master discusses the impediments with the Scrum Team.
+- [ ] The Product Owner should add the open impediments to the Product Backlog.
+- [ ] Arrange a triage meeting with management.
 
 **[⬆ Back to Top](#table-of-contents)**
 
