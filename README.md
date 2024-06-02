@@ -342,6 +342,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 247 | [The Scrum Team must choose at least one high priority process improvement item, identified during the Sprint Retrospective, and place it in the Sprint Backlog.](#the-scrum-team-must-choose-at-least-one-high-priority-process-improvement-item-identified-during-the-sprint-retrospective-and-place-it-in-the-sprint-backlog) |
 | 248 | [When does a Sprint conclude?](#when-does-a-sprint-conclude) |
 | 249 | [A Scrum Team is experiencing a growing list of impediments. Which techniques would be most helpfull in this situation?](#a-scrum-team-is-experiencing-a-growing-list-of-impediments-which-techniques-would-be-most-helpfull-in-this-situation) |
+| 250 | [Which of the following are topics for the Developers to discuss at the Daily Scrum as they inspect their progress toward the Sprint Goal?](#which-of-the-following-are-topics-for-the-developers-to-discuss-at-the-daily-scrum-as-they-inspect-their-progress-toward-the-sprint-goal) |
 
 
 ### You have just been hired by a company new to Scrum. Your management has assigned you to be the Scrum Master of six new Scrum Teams. These teams will build one product. Select two conditions you should strive for in this scenario. (choose two)
@@ -2578,6 +2579,18 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] The Scrum Master discusses the impediments with the Scrum Team.
 - [ ] The Product Owner should add the open impediments to the Product Backlog.
 - [ ] Arrange a triage meeting with management.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Which of the following are topics for the Developers to discuss at the Daily Scrum as they inspect their progress toward the Sprint Goal?
+
+- [x] Are there any decisions that need to be made to maintain progress toward the Sprint Goal?
+- [ ] How many hours did I spend on the project yesterday?
+- [x] What have we learned since yesterday and how should we modify our plan to increase our ability to meet the Sprint Goal?
+- [ ] Why were you late?
+- [ ] Will today's work negatively impact our ability to meet the Sprint Goal for the Sprint following this one?
+- [ ] What will I be working on tomorrow?
+- [x] Are there any impediments blocking progress toward the Sprint Goal?
 
 **[⬆ Back to Top](#table-of-contents)**
 
