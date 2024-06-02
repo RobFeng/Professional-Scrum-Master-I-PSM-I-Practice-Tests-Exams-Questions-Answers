@@ -404,7 +404,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] The Scrum process, and how it was used during the Sprint.
 - [ ] Coding and engineering practices.
-- [x] Sprint results.
+- [x] Sprint results. The product increment.
 - [ ] All of the above.
 
 **[⬆ Back to Top](#table-of-contents)**
