@@ -264,7 +264,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 169 | [Select two ways in which technical debt impacts transparency. (choose two)](#select-two-ways-in-which-technical-debt-impacts-transparency-choose-two) |
 | 170 | [A Development Team is required to deliver a done Increment by the end of a Sprint. Select two statements that explain what "Done" means. (choose two)](#a-development-team-is-required-to-deliver-a-done-increment-by-the-end-of-a-sprint-select-two-statements-that-explain-what-done-means-choose-two) |
 | 171 | [Which of the following are true about the length of the Sprint? (choose two)](#which-of-the-following-are-true-about-the-length-of-the-sprint-choose-two) |
-| 172 | [PLACEHOLDER 3](#placeholder-3) |
+| 172 | [One of the Scrum events is the Daily Scrum. What are two intended outcomes of the Daily Scrum](#one-of-the-scrum-events-is-the-daily-scrum-what-are-two-intended-outcomes-of-the-daily-scrumchoose-two) |
 | 173 | [Developers include which role(s)?(pick all that apply)](#developers-include-which-roles) |
 | 174 | [The Sprint Backlog must be detailed enough that...](#the-sprint-backlog-must-be-detailed-enough-that) |
 | 175 | [The Scrum Master is accountable for the Product Backlog.](#the-scrum-master-is-accountable-for-the-product-backlog) |
@@ -1925,12 +1925,14 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### PLACEHOLDER 3
+### One of the Scrum events is the Daily Scrum. What are two intended outcomes of the Daily Scrum?(Choose two.)
 
-- [ ] PLACEHOLDER.
-- [ ] PLACEHOLDER.
-- [ ] PLACEHOLDER.
-- [ ] PLACEHOLDER.
+- [ ] A shared understanding of the most important work to be undertaken next to achieve the best possible progress toward the Sprint goal.
+- [ ] An update of completed tasks and of the remaining work so the Scrum Master can plan the next day.
+- [ ] A status report for the upper management indicating what each individual has done, will be
+doing, and what is impending him/her.
+- [ ] An updated Scrum board to make Sprint progress transparent for the stakeholders.
+- [ ] New impediments for the Scrum Master to take care of.
 
 **[⬆ Back to Top](#table-of-contents)**
 
