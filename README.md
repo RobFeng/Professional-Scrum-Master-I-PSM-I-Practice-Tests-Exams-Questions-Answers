@@ -158,7 +158,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 63  | [Which of the following best describes an increment of working software?](#which-of-the-following-best-describes-an-increment-of-working-software-choose-the-best-answer)   |
 | 64  | [In order to achieve the benefits of Scrum, it is important to enact the value of commitment. What two actions demonstrate the commitment of Scrum Team members?](#in-order-to-achieve-the-benefits-of-scrum-it-is-important-to-enact-the-value-of-commitment-what-two-actions-demonstrate-the-commitment-of-scrum-team-members-choose-the-best-two-answers)   |
 | 65  | [The Product Owner determines how many Product Backlog items the Development Team selects for a Sprint. (choose the best answer)](#the-product-owner-determines-how-many-product-backlog-items-the-development-team-selects-for-a-sprint-choose-the-best-answer)   |
-| 66  | [PLACEHOLDER 1](#placeholder-1)   |
+| 66  | [Which are NOT appropriate topics for discussion in a Sprint Retrospective?](#which-are-not-appropriate-topics-for-discussion-in-a-sprint-retrospective)   |
 | 67  | [The Sprint Review is mainly an inspect and adapt opportunity for which group?](#the-sprint-review-is-mainly-an-inspect-and-adapt-opportunity-for-which-group)   |
 | 68  | [To get started in terms of what to build, Scrum requires no more than a Product Owner with enough ideas for a first Sprint, a Development Team to implement those ideas and a Scrum Master to help guide the process.](#to-get-started-in-terms-of-what-to-build-scrum-requires-no-more-than-a-product-owner-with-enough-ideas-for-a-first-sprint-a-development-team-to-implement-those-ideas-and-a-scrum-master-to-help-guide-the-process)   |
 | 69  | [What is the time-box for the Sprint Review?](#what-is-the-time-box-for-the-sprint-review)   |
@@ -609,6 +609,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Its productivity is likely to decrease.
 - [ ] Its productivity is likely to stay the same.
 - [ ] Its productivity is likely to increase.
+- [ ] We do not know until a Sprint has run.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -941,12 +942,13 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### PLACEHOLDER 1
-
-- [ ] PLACEHOLDER.
-- [ ] PLACEHOLDER.
-- [ ] PLACEHOLDER.
-- [ ] PLACEHOLDER.
+### Which are NOT appropriate topics for discussion in a Sprint Retrospective?
+(Choose two.)
+- [ ] Definition of “Done”.
+- [ ] How the team does its work.
+- [ ] Team relations.
+- [x] The value of work currently represented in the Product Backlog.
+- [x] Arranging the Sprint Backlog for the next Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
