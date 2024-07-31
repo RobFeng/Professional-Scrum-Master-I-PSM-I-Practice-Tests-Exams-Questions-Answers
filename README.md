@@ -189,7 +189,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 94  | [Which technique is the best way the Scrum Master can ensure that the Development Team communicates effectively with the Product Owner?](#which-technique-is-the-best-way-the-scrum-master-can-ensure-that-the-development-team-communicates-effectively-with-the-product-owner)   |
 | 95  | [How much of the Sprint Backlog must be defined during the Sprint Planning event?](#how-much-of-the-sprint-backlog-must-be-defined-during-the-sprint-planning-event) |
 | 96  | [Who is responsible for managing the progress of work during a Sprint?](#who-is-responsible-for-managing-the-progress-of-work-during-a-sprint) |
-| 97  | [PLACEHOLDER 2](#placeholder-2) |
+| 97  | [Which does a self-organizing Development Team choose?](#which-does-a-self-organizing-development-team-choose) |
 | 98  | [What two factors are best considered when establishing the Sprint length? (choose two.)](#what-two-factors-are-best-considered-when-establishing-the-sprint-length-choose-two) |
 | 99  | [Which of these may a Development Team deliver at the end of a Sprint?](#which-of-these-may-a-development-team-deliver-at-the-end-of-a-sprint) |
 | 100 | [Who creates a Product Backlog item's estimate?](#who-creates-a-product-backlog-items-estimate) |
@@ -1223,12 +1223,13 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### PLACEHOLDER 2
+### Which does a self-organizing Development Team choose?
 
-- [ ] PLACEHOLDER.
-- [ ] PLACEHOLDER.
-- [ ] PLACEHOLDER.
-- [ ] PLACEHOLDER.
+- [ ] Sprint length.
+- [x] How to best accomplish its work.
+- [ ] Stakeholders for the Sprint Review.
+- [ ] When to release, based on its progress.
+- [ ] Product Backlog ordering.
 
 **[⬆ Back to Top](#table-of-contents)**
 
