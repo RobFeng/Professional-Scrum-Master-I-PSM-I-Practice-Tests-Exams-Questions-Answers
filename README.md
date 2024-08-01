@@ -344,6 +344,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 249 | [A Scrum Team is experiencing a growing list of impediments. Which techniques would be most helpfull in this situation?](#a-scrum-team-is-experiencing-a-growing-list-of-impediments-which-techniques-would-be-most-helpfull-in-this-situation) |
 | 250 | [Which of the following are topics for the Developers to discuss at the Daily Scrum as they inspect their progress toward the Sprint Goal?](#which-of-the-following-are-topics-for-the-developers-to-discuss-at-the-daily-scrum-as-they-inspect-their-progress-toward-the-sprint-goal) |
 | 251 | [Which three behaviors demonstrate that a team is self-organizing?](#which-three-behaviors-demonstrate-that-a-team-is-self-organizing) |
+| 252 | [Why does a Development Team need a Sprint Goal?](#why-does-a-development-team-need-a-sprint-goal) |
+
 
 ### You have just been hired by a company new to Scrum. Your management has assigned you to be the Scrum Master of six new Scrum Teams. These teams will build one product. Select two conditions you should strive for in this scenario. (choose two)
 
@@ -2609,6 +2611,14 @@ doing, and what is impending him/her.
 - [ ] Development Team members collaboratively selecting their own work during the Sprint.
 - [x] The Development Team inviting external people to the Sprint Planning to ask them how to turn a Product Backlong item into an Increment via a complete and detailed Sprint Backlog.
 - [ ] The Scrum Master is no longer needed.
+
+**[⬆ Back to Top](#table-of-contents)**
+
+### Why does a Development Team need a Sprint Goal?
+- [ ] A Sprint Goal only gives purpose to Sprint 0.
+- [ ] Sprint Goals are not valuable. Everything is known from the Product Backlog.
+- [x] The Development Team is more focused with a common yet specific goal.
+- [ ] A Sprint Goal ensures that all of the Product Backlog items selected for the Sprint areimplemented.
 
 **[⬆ Back to Top](#table-of-contents)**
 #### Legal Information and Disclaimer
