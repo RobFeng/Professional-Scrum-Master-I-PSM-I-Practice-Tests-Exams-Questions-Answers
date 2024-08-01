@@ -345,6 +345,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 250 | [Which of the following are topics for the Developers to discuss at the Daily Scrum as they inspect their progress toward the Sprint Goal?](#which-of-the-following-are-topics-for-the-developers-to-discuss-at-the-daily-scrum-as-they-inspect-their-progress-toward-the-sprint-goal) |
 | 251 | [Which three behaviors demonstrate that a team is self-organizing?](#which-three-behaviors-demonstrate-that-a-team-is-self-organizing) |
 | 252 | [Why does a Development Team need a Sprint Goal?](#why-does-a-development-team-need-a-sprint-goal) |
+| 253 | [What are two ways that architecture and infrastructure are handled in Scrum?](#what-are-two-ways-that-architecture-and-infrastructure-are-handled-in-scrum) |
 
 
 ### You have just been hired by a company new to Scrum. Your management has assigned you to be the Scrum Master of six new Scrum Teams. These teams will build one product. Select two conditions you should strive for in this scenario. (choose two)
@@ -1031,6 +1032,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Prioritizing the list and working on them in order.
 - [ ] Arranging a triage meeting with all project managers.
 - [x] Alerting management to the impediments and their impact.
+- [ ] Add each open impediment to the Product Backlog.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2621,6 +2623,17 @@ doing, and what is impending him/her.
 - [ ] A Sprint Goal ensures that all of the Product Backlog items selected for the Sprint areimplemented.
 
 **[⬆ Back to Top](#table-of-contents)**
+
+### What are two ways that architecture and infrastructure are handled in Scrum?
+(Choose two.)
+- [ ] They are discussed, determined, and documented before the actual feature development
+Sprints.
+- [x] They are implemented along with functional development of the product.
+- [x] They are added to the Product Backlog and addressed in early Sprints, while always requiringat least some business functionality, no matter how small.
+- [ ] They are built by a separate team through the creation of an architectural runway.
+
+**[⬆ Back to Top](#table-of-contents)**
+
 #### Legal Information and Disclaimer
 
 *Scrum.org • Professional Scrum • Applying Professional Scrum • Professional Scrum Foundations • Professional Scrum Master • Professional Scrum Product Owner • Professional Scrum Developer • Scaled Professional Scrum • Professional Agile Leadership • Professional Agile Leadership - Essentials • Professional Scrum with Kanban • Professional Scrum with User Experience • Professional Scrum Facilitation Skills • Professional Scrum Product Backlog Management Skills • Professional Scrum Trainer • Professional Training Network • Evidence Based Management • Guided Learning Platform • Professional Scrum Guide • Scrum Pulse • ScrumPulse • Scrum Tapas • PSF • APS • PSM • PSPO • PSD • SPS • PAL-E • PSK • PSU • PSF Skills • PSPBM Skills • PST • PSG • GLP • PTN • EBM • EBMngt along with respective Design Marks, are protected brands of Scrum.org. This course is neither endorsed nor affiliated with Scrum.org.*
