@@ -1931,12 +1931,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### One of the Scrum events is the Daily Scrum. What are two intended outcomes of the Daily Scrum?(Choose two.)
 
-- [ ] A shared understanding of the most important work to be undertaken next to achieve the best possible progress toward the Sprint goal.
+- [x] A shared understanding of the most important work to be undertaken next to achieve the best possible progress toward the Sprint goal.
 - [ ] An update of completed tasks and of the remaining work so the Scrum Master can plan the next day.
 - [ ] A status report for the upper management indicating what each individual has done, will be
 doing, and what is impending him/her.
 - [ ] An updated Scrum board to make Sprint progress transparent for the stakeholders.
-- [ ] New impediments for the Scrum Master to take care of.
+- [x] New impediments for the Scrum Master to take care of.
 
 **[⬆ Back to Top](#table-of-contents)**
 
